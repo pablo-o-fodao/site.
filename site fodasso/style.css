@@ -1,7 +1,19 @@
-head{
+*{
     text-align: center;
 }
-body{-ms-ime-align: left
-;}
-h1{color: #0749ff;size-adjust: 100; text-align: right;}
-p{ color: #0749ff; size-adjust: 100; text-align: justify;}
+
+.esquerda {
+    text-align: left;
+}
+
+.esquerda img {
+    height: 320px;
+}
+
+.direita{
+    text-align: right;
+}
+
+h1{color: #0749ff}
+p{ color: #FFB4B4}
+
